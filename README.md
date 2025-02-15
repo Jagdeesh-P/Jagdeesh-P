@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Jagdeesh-P
+- 👋 Hi, This is Jagdeesh P
 - 🌐 A Passionate Data Science Student
 - 💻 Linkedin: https://www.linkedin.com/in/jagdeesh-p/
